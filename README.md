@@ -11,7 +11,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone the repository:
 ```console
-https://github.com/princexz/monty.git
+https://github.com/tosman1/monty.git
 ```
 
 ## Usage
